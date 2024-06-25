@@ -11,7 +11,9 @@ The "Auto Update" version has been removed since it no longer works given the fi
 ## Axis OS Support
 
 Support for Axis OS 12.
+
 This ACAP no longer requires root privileges.
+
 A signed version is also provided.
 
 ## Purpose
